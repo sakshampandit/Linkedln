@@ -1,2 +1,2 @@
 # Linkedln_Clone
-This is a Linkedln Clone with React Js and Firebase
+To see the Full repository then go to my updated repository :- https://github.com/sakshampandit/Linkedln-Clone
